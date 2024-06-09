@@ -1,6 +1,6 @@
 # Digit Classifier Web Application 
 
-This project is a web application that allows users to draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model. The model is trained on the MNIST dataset(not 100 accuracy).
+This project is a web application that allows users to draw digits on a canvas and classify them using a pre-trained convolutional neural network (CNN) model. The model is trained on the MNIST dataset(not 100 % accuracy).
 
 ## Prerequisites
 
