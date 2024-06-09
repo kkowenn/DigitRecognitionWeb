@@ -12,10 +12,10 @@ body {
 
 h1 {
   margin-bottom: 20px;
-  color: #fff; /* Text color for better visibility */
-  background-color: #333; /* Background color */
-  padding: 10px; /* Padding for better spacing around text */
-  display: block; /* Ensure the h1 is treated as a block element */
+  color: #fff; 
+  background-color: #333; 
+  padding: 10px; 
+  display: block;
 }
 
 #canvas {
