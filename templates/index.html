@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Digit Classifier</title>
+    <link rel="stylesheet" href="static/styles.css" />
+  </head>
+  <body>
+    <h1>Draw a Digit</h1>
+    <canvas id="canvas" width="280" height="280"></canvas>
+    <div class="buttons">
+      <button onclick="clearCanvas()">Clear</button>
+      <button onclick="predictDigit()">Predict</button>
+    </div>
+    <h2>Predicted Digit: <span id="result">None</span></h2>
+    <script src="static/script.js"></script>
+  </body>
+</html>
