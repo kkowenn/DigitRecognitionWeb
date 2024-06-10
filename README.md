@@ -10,6 +10,10 @@ This project is a web application that allows users to draw digits on a canvas a
 - Matplotlib
 - Pandas
 
+## Example Output
+
+### Training Metrics Visualization
+![Visualization](visualize/visualize1.png)
 
 ## Usage
 
@@ -19,11 +23,6 @@ This project is a web application that allows users to draw digits on a canvas a
 
 2. **Clear the canvas:**
     - Click "Clear" to reset the canvas.
-
-## Example Output
-
-### Training Metrics Visualization
-![Visualization](visualize/visualize1.png)
 
 ### Web Interface
 ![Interface](visualize/interface.gif)
